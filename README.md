@@ -1,4 +1,5 @@
-web-midi-api-sample
+Web MIDI API sample
 ===================
 
-doragon quest opening thema music
+Doragon-Quest opening thema music.
+Install [Jazz-Plugin](http://jazz-soft.net/).
