@@ -75,7 +75,7 @@
     },
     
     failure: function(error) {
-      alert("Cannot use Web MIDI API!");
+      alert("Cannot use Web MIDI API! Plz install Jazz-Plugin! http://jazz-soft.net/");
     },
     
     start: function() {
